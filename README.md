@@ -46,10 +46,7 @@ node app.js
 student-marks-manager/
 │
 ├── app.js
-├── README.md
-├── package.json
-├── package-lock.json
-└── .gitignore
+└── README.md
 ```
 
 ## Concepts Practiced
